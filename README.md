@@ -2,7 +2,7 @@
 
 ## About
 
-The aim is to be able to take an image of a person and be able to detect the range of age within 5 yrs error gap. Facial features are recognized by several layers of convolution and at the end produce a regressive value for the age. All the data has been normalised, since they perform better than usual.
+The aim is to be able to take an image of a person and be able to detect the range of age within 5 yrs error gap. Facial features are recognized by several layers of convolution and at the end produce a regressive value for the age. All the data has been normalised, since they perform better than usual. The available data has been modified and can be produced by following the instructions to run the code
 
 ## Steps to run the code
 - git clone the repo
