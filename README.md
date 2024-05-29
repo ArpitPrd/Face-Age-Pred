@@ -13,10 +13,10 @@
 - Since the data is not distributed uniformly the margin of age predicted is slightly large - 7yrs
 - Age for Saina Nehwal in following picture:  
     ![](saina.jpg)  
-  -- True Age - 26 yrs, Predicted age - 24 yrs
+  - True Age - 26 yrs, Predicted age - 24 yrs
 
 - Age for Sachin Tendular in following picture:  
     ![](sachin.webp)
-  -- True Age - x yrs, Predicted age - 39 yrs
+  - True Age - x yrs, Predicted age - 39 yrs
 
   
